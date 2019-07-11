@@ -1,0 +1,81 @@
+body {
+    font-family: 'Gill Sans MT', 'Gill Sans MT', 'Gill Sans', 'Gill Sans MT', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Trebuchet MS', sans-serif, 'Trebuchet MS', sans-serif, Helvetica, sans-serif;
+    width: 100vw;
+    height: 100vh;
+    background-color:#000080;
+    backgroundcolor: ;
+  }
+
+  a {
+    text-decoration:none
+  }
+
+  .logo {
+    height: 150px;
+    margin: 0% 44%;
+    /*float:;*/
+  }
+  
+  header {
+    background-color: #FF4D0D;
+    height: 150px;
+  }
+  
+  main {
+    height: auto;
+    background-color:#000080;
+    color: white;
+    text-align: center;
+    padding: 3%;
+  }
+  
+  nav > a {
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    border-radius: 25px;
+    padding: 1%;
+    background-color: rgb(10, 16, 90);
+    text-align: center;
+    border: 2px solid rgb(172, 63, 0);
+    float:right;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -10%;
+    padding: 3%;
+  }
+  
+  #profile-pic {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+  }
+  
+  h1 {
+    color:rgb(198, 205, 243);
+    margin: 1% auto;
+  }
+  
+  button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 25px;
+    background-color: red;
+    text-align: center;
+    color:white;
+    padding: 1%;
+  }
+
+iframe {
+    padding: 3%;
+}
+  footer {
+      text-align: center;
+  }
+  #about{
+    margin:20%;
+background-size:   
+}
